@@ -1,0 +1,7 @@
+#location_input {
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    opacity: 0.95;
+    zoom:0.9;
+    transition: opacity 500 ms 1s;
+}
